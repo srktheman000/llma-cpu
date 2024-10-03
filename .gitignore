@@ -1,0 +1,4 @@
+pyproject.toml
+model
+src/__pycache__
+Generative_AI_LLAMA_CPU_Project.egg-info
